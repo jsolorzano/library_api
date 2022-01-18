@@ -1,0 +1,8 @@
+django
+djangorestframework
+markdown
+django-filter
+setuptools_rust
+django-rest-auth
+django-allauth
+openpyxl
