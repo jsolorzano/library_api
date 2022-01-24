@@ -99,9 +99,13 @@ python manage.py runserver
 _Si haz llegado a este punto, tendrás a disposición el siguiente conjunto de endpoints para navegar la api._
 
 _http://127.0.0.1:8000/api/v1/_
+
 _http://127.0.0.1:8000/api/v1/auth/_
+
 _http://127.0.0.1:8000/api/v1/auth/registration/_
+
 _http://127.0.0.1:8000/authors/export_xlsx/_
+
 _http://127.0.0.1:8000/books/export_xlsx/_
 
 _En el primero de los endpoints encontrarás los enlaces a los endpoints de Autores y Libros y desde ellos podrás gestionar los modelos que cada uno representa._
